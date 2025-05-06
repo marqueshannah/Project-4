@@ -1,0 +1,12 @@
+{
+    "total_products": 931,
+    "unique_brands": 57,
+    "unique_product_types": 10,
+    "unique_categories": 15,
+    "price_stats": {
+        "min": 0.0,
+        "max": 77.0,
+        "mean": 16.508593238822247,
+        "median": 13.99
+    }
+}
